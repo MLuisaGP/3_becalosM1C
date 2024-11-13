@@ -1,0 +1,16 @@
+.hobbies{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+section, header{
+    margin: 3rem;
+}
+
+
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
